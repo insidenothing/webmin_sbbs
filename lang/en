@@ -1,0 +1,21 @@
+index_domain=Configuration Line
+index_directory=Value
+index_none=Configuration has not been created yet.
+index_add=Add a new line.
+index_return=Configuration list
+
+edit_title=Edit BBS
+create_title=Create BBS
+edit_header=Synchronet BBS Configuration
+edit_domain=Configuration
+edit_directory=Value
+
+save_err=Failed to save BBS
+save_edomain=Missing or invalid domain name
+save_edirectory=Directory must be an absolute path
+save_edirectory2=Directory does not exist
+save_egone=BBS no longer exists
+
+log_create=Created BBS $1
+log_modify=Modified BBS $1
+log_delete=Deleted BBS $1
